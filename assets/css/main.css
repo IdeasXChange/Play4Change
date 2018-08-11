@@ -146,7 +146,7 @@ input, select, textarea {
 	}
 
 
-		.paragraphModh2 {
+	.paragraphModh2 {
 			font-weight: 50;
 			font-size: 30
 			text-align: justify;
@@ -155,7 +155,7 @@ input, select, textarea {
 			margin-right: 0.1em;
 		}
 
-		.paragraphModCloselines {
+	.paragraphModCloselines {
 			font-weight: 50;
 			text-align: justify;
 			line-height: 1.2em;
