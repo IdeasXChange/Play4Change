@@ -1531,21 +1531,17 @@
 				}
 			}
 
-			body {
-				&.navPanel-visible {
-					#page-wrapper {
-						@include vendor('transform', 'translateY(#{_size(navPanel)})');
-					}
 
-					#navButton {
-						@include vendor('transform', 'translateY(#{_size(navPanel)})');
-					}
-
-					#navPanel {
-						@include vendor('transform', 'translateY(0)');
-					}
-				}
-			}
+			//
+			// 		#navButton {
+			// 			@include vendor('transform', 'translateY(#{_size(navPanel)})');
+			// 		}
+			//
+			// 		#navPanel {
+			// 			@include vendor('transform', 'translateY(0)');
+			// 		}
+			// 	}
+			// }
 
 		/* Wrapper */
 
